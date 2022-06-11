@@ -4,7 +4,7 @@
 * My name is [Mateusz](https://www.linkedin.com/in/mateusz-grzesikiewicz/). I am a student of the last year of my Master's degree in Computer Science at the University of Warmia and Mazury in Olsztyn.
 * I am most interested in programming in Python language. And I am looking for a job in it.
 * I realized a few projects using Django and Rest Framework, as well as algotitms written in Python:
-  - [TODO app](https://github.com.StrangeriX/todo-app) - Simple todo app created with django
+  - [TODO app](https://github.com/StrangeriX/todo-app) - Simple todo app created with django
   - [Real Time Chat](https://github.com/StrangeriX/DjangoChat) - Django chat application created using chnnels and Tailwind.css
   - [Raid Organizer](https://github.com/StrangeriX/RaidOrganizer)- Aplication created for my engineering thesis.
   - [D$D API](https://github.com/StrangeriX/ZSI) - API created for Advanced WEB Aplications classes.
