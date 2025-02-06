@@ -1,7 +1,7 @@
 <h1 align=center>Hello 👋</h1>
 
 
-<h3>My name is [Mateusz](https://www.linkedin.com/in/mateusz-grzesikiewicz/).</h3>
+My name is [Mateusz](https://www.linkedin.com/in/mateusz-grzesikiewicz/).
 I am a young programmer mainly working in python using Django + DRF. Additionally, I create projects using TypeScript in React.js.
 
 * I realized a few projects using Django and Rest Framework, as well as algotitms written in Python:
